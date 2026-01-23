@@ -48,11 +48,11 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 **Your 3-5 Key Takeaways:**
 
-1. 
+1. A peak in PV installations occurred between September and December 2012.
 
-2. 
+2. Non residential PV installations (hotels, industrial, and commercial buildings) made up around 2% of total PV permits, but accounted for 27% of total PV permit value due to larger project sizes.
 
-3. 
+3. Between 2000 and June 2017, Honolulu County issued 56,655 PV permits with a combined reported value of around $2.16 billion.
 
 4. 
 
@@ -68,13 +68,13 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 **Your 3-5 Key Takeaways:**
 
-1. 
+1. Solar PV systems were found to be fully capitalized into home values, meaning buyers recognize and pay for their benefits.
 
-2. 
+2. The value of PV systems exceeded installation costs by about $5,000
 
-3. 
+3. High electricity prices and tax credits made Hawaiʻi an ideal case study for assessing solar value.
 
-4. 
+4. State and federal incentives, including a 30% federal tax credit and a 35% Hawaiʻi tax credit, accelerated solar adoption.
 
 5. 
 
@@ -88,15 +88,15 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 **Your 3-5 Key Takeaways:**
 
-1. 
+1. Integrated Grid Planning guides Hawaiʻi’s transition to a resilient, reliable electric grid powered by local renewable energy sources.
 
-2. 
+2. The Integrated Grid Plan outlines actionable steps to decarbonize Hawaiʻi’s electric grid while remaining flexible to future technologies and changing energy needs.
 
-3. 
+3. Key strategies include retiring fossil fuel plants, expanding energy storage and geothermal resources, adding at least 1 gigawatt of clean energy projects, and creating customer incentives for clean energy use.
 
-4. 
+4.  The IGP was developed through extensive public and stakeholder engagement, updated after public comments, and accepted by the Public Utilities Commission on March 7, 2024.
 
-5. 
+5. There is a four step Integrated Grid Planning process, Data Collection → Plan Definition → Creating a Clean Energy Marketplace → Plan Refinement—illustrating how Hawaiʻi moves from research to action.
 
 ---
 
@@ -128,13 +128,13 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 **Your 3-5 Key Takeaways:**
 
-1. 
+1.  Hawaii aims to reach net zero carbon emissions and power its electric grid with 100% renewable energy, and progress is already underway, by 2021, 31.5% of energy sales came from renewable sources, keeping the state on track.
 
-2. 
+2. Future energy needs are highly uncertain and depend on changing customer behaviors, technology adoption, and economic conditions
 
-3. 
+3. The cost and availability of resources and land for new generation and transmission infrastructure strongly shape future energy costs for customers.
 
-4. 
+4. Customer energy efficiency choices directly influence total electricity demand, as more efficient appliances and lighting reduce overall grid load.
 
 5. 
 
@@ -172,25 +172,25 @@ Based on your takeaways above, develop a focused research plan that demonstrates
 
 **Your Research Plan:**
 
-1. 
+1. I will use geosam to identify areas on Oahu with low rooftop solar adoption and compare them to electricity usage patterns across the island.
 
-2. 
+2. This question is important because targeting underutilized areas for solar deployment can accelerate Hawaii’s renewable energy transition and reduce reliance on imported fossil fuels.
 
-3. 
+3. My geographic focus will be the entire island of Oahu
 
-4. 
+4. I will combine geosam solar data with Hawaiian Electric electricity consumption data and demographic information from the U.S. Census.
 
-5. 
+5. I will analyze correlations between solar potential, current electricity demand, and rooftop availability to identify higher priority sites for solar panel development.
 
-6. 
+6. I hope to discover neighborhoods where solar adoption is low despite high electricity demand and suitable rooftops.
 
-7. 
+7. These results could help policymakers and utility planners target incentives and infrastructure investments to make our renewable energy goal.
 
-8. 
+8. To verify geosam’s accuracy, I will cross-check predicted solar potential with actual PV installations documented by Hawaiian Electric.
 
-9. 
+9. Limitations include potential inaccuracies in rooftop data.
 
-10. 
+10. I would want my findings to  be used by state energy planners, utilities, and renewable energy developers to prioritize solar projects and optimize Hawaii’s transition to clean energy.
 
 ---
 
