@@ -108,11 +108,11 @@ For each resource, read/explore the content and write **3-5 key takeaways** that
 
 **Your 3-5 Key Takeaways:**
 
-1. 
+1. Suitable areas for utility scale renewables cluster in specific inland and leeward regions.
 
-2. 
+2. Forest reserves, conservation lands, and culturally important areas are largely excluded, narrowing development to already disturbed landscapes.
 
-3. 
+3. Windward zones appear more constrained due to terrain, conservation lands, and community sensitivity
 
 4. 
 
